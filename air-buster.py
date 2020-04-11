@@ -1,3 +1,13 @@
+'''
+==================================================================================
+Name        : Air Buster AI
+Author      : Kenshiro
+Version     : 1.00
+Copyright   : GNU General Public License (GPLv3)
+Description : Air Buster AI based on the T-Rex evolutionary neural network
+==================================================================================
+'''
+
 #Action space: MultiBinary(12)
 #Observation space: Box(224, 256, 3)
 #Observation high: 255, low: 0
